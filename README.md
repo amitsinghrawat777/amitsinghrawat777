@@ -1,7 +1,6 @@
 [![MasterHead](https://64.media.tumblr.com/5d37ab2aa782462c7aa092f7bd0d27cb/2f374d07287b003b-f4/s1280x1920/fe094893d79e09d668e1705e8b9144964f38ce75.gifv)](https://rishavchanda.io)
-<h1 align="center" color="red">Hi 👋, I'm Amit Rawat</h1>
+<h1 align="center">Hi 👋, I'm Amit Rawat</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amitsinghrawat777&label=Profile%20views&color=0e75b6&style=flat" alt="amitsinghrawat777" /> </p>
 
 <p align="left"> <a href="https://twitter.com/rawat_sing32712" target="blank"><img src="https://img.shields.io/twitter/follow/rawat_sing32712?logo=twitter&style=for-the-badge" alt="rawat_sing32712" /></a> </p>
 
