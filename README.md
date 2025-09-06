@@ -1,5 +1,5 @@
 [![MasterHead](https://64.media.tumblr.com/5d37ab2aa782462c7aa092f7bd0d27cb/2f374d07287b003b-f4/s1280x1920/fe094893d79e09d668e1705e8b9144964f38ce75.gifv)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Amit Rawat</h1>
+<h1 align="center">Ayo👋, You just landed on Amits's gitHub profile</h1>
 <h3 align="center">A passionate <strong>Fullstack</strong> developer</h3>
 
 
