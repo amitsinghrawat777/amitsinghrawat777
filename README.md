@@ -1,53 +1,23 @@
-<h1 align="center">Amit Singh Rawat</h1>
-<h3 align="center">Full Stack Developer • Builder • Fitness Enthusiast</h3>
+[![MasterHead](https://64.media.tumblr.com/5d37ab2aa782462c7aa092f7bd0d27cb/2f374d07287b003b-f4/s1280x1920/fe094893d79e09d668e1705e8b9144964f38ce75.gifv)](https://rishavchanda.io)
+<h1 align="center">Ayo👋, You just landed on Amits's gitHub profile</h1>
+<h3 align="center">A passionate <strong>Fullstack</strong> developer</h3>
 
-<p align="center">
-  <em>"Turning coffee into code and sets into reps."</em>
-</p>
 
-<br/>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/a.myth_singh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/https://www.linkedin.com/in/amit-singh-rawat-bb056524a/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/rawat_sing32712) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rawatamit446@gmail.com) 
 
-### 👨‍💻 About
-I am a developer who prefers clean code over complex hacks. Currently completing my B.Tech in CSE while building practical tools for the real world.
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=amitsinghrawat777&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=amitsinghrawat777&theme=cobalt&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=amitsinghrawat777&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- **Current Focus:** Building <strong>ApexFlow</strong> (Gym Management SaaS)
-- **Learning:** Advanced Machine Learning algorithms
-- **Goal:** Solving problems in the Defense & Fitness sectors
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=amitsinghrawat777&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<br/>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=amitsinghrawat777&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 🛠️ The Toolkit
-<p align="left">
-  <img src="https://img.shields.io/badge/JAVA-000000?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
-</p>
-
-<br/>
-
-### 📊 Performance
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=amitsinghrawat777&show_icons=true&theme=gotham&hide_border=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitsinghrawat777&layout=compact&theme=gotham&hide_border=true&count_private=true" height="150" alt="languages graph" />
-</div>
-
-<br/>
-
-### 🌐 Connect
-<p align="left">
-  <a href="https://linkedin.com/in/amit-singh-rawat-bb056524a/">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:rawatamit446@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/a.myth_singh">
-    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=amitsinghrawat777&icon=9&color=1)](https://visitcount.itsvg.in)
