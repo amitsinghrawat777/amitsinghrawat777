@@ -61,10 +61,10 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 
-### 📊 GitHub Stats
-<div>
-
-  <br/>
+<div align="center">
+  <a href="https://github.com/amitsinghrawat777">
+    <img src="https://github-profile-trophy.vercel.app/?username=amitsinghrawat777&column=7&margin-w=15&margin-h=15&no-frame=true&theme=algolia&title=Stars,Followers,MultiLanguage,Repositories,Organizations,Commits,PullRequest,Issues" />
+  </a>
 
   <p align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amitsinghrawat777&theme=algolia" width="100%" />
