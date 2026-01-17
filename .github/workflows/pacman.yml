@@ -1,0 +1,29 @@
+name: Generate Pac-Man
+
+on:
+  # Run automatically every 24 hours
+  schedule:
+    - cron: "0 0 * * *" 
+  
+  # Allows you to run it manually from the Actions tab for testing
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clone repo
+        uses: actions/checkout@v3
+
+      - name: Generate Pac-Man Graph
+        uses: abozanona/pacman-contribution-graph@v2
+        with:
+          github_user_name: ${{ github.repository_owner }}
+
+      - name: Push to pacman branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: pacman
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
