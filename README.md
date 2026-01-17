@@ -61,7 +61,9 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 
+### 📊 GitHub Stats
 <div align="center">
+
   <a href="https://github.com/amitsinghrawat777">
     <img src="https://github-readme-stats.vercel.app/api?username=amitsinghrawat777&show_icons=true&line_height=30&rank_icon=github&show=discussions_answered&theme=algolia&hide_border=true" alt="Amit's github stats"/>
   </a>
@@ -73,11 +75,25 @@
   </a>
 
   <br/>
+
+  <p align="center">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amitsinghrawat777&theme=algolia" width="100%" />
+    <br/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amitsinghrawat777&theme=algolia" width="31%" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amitsinghrawat777&theme=algolia" width="31%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amitsinghrawat777&theme=algolia" width="31%" />
+  </p>
+
+  <a href="https://github.com/amitsinghrawat777">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=amitsinghrawat777&theme=react-dark&hide_border=true&area=true&bg_color=01102d&color=6eb9f2&line=41c350&point=ffffff" />
+  </a>
+
   <br/>
 
   <a href="https://github.com/amitsinghrawat777">
     <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" width="100%" />
   </a>
+
 </div>
 
 <br/>
