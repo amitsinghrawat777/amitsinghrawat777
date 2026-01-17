@@ -63,17 +63,33 @@
 </p>
 
 <br/>
-# 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=amitsinghrawat777&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=amitsinghrawat777&theme=cobalt&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=amitsinghrawat777&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=amitsinghrawat777&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<h3 align="center">
+ <a href="https://github.com/amitsinghrawat777">
+<img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="left" /> 
+    </a> <a href="https://github.com/walidbosso">
+  <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right" />
+   </a> 【﻿Ｓｔａｔｓ】 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=amitsinghrawat777&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</h3>
+ 
+<p align="center">
+ <br/>
+<a href="https://github.com/amitsinghrawat777"><img align="center" width ="%" src="https://img.shields.io/github/followers/amitsinghrawat777?logo=github&logoColor=41c350&labelColor=01102d&color=blue&style=for-the-badge"></a>
 
----
-[![](https://visitcount.itsvg.in/api?id=amitsinghrawat777&icon=9&color=1)](https://visitcount.itsvg.in)
+
+
+<p align="center"> 
+
+ <p align="center">
+<a href="https://github.com/amitsinghrawat777">
+
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=amitsinghrawat777&show_icons=true&line_height=30&rank_icon=github&show=discussions_answered&theme=algolia" alt="Amit's github stats"/>
+
+</a>
+
+<br/>
+ 
+
+</p >
