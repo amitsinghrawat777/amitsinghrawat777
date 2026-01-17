@@ -63,13 +63,6 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-
-  <a href="https://github.com/amitsinghrawat777">
-    <img src="https://github-readme-stats.vercel.app/api?username=amitsinghrawat777&show_icons=true&line_height=30&rank_icon=github&show=discussions_answered&theme=algolia&hide_border=true" alt="Amit's github stats"/>
-  </a>
-  
-  <br/>
-  
   <a href="https://github.com/amitsinghrawat777">
     <img src="https://github-profile-trophy.vercel.app/?username=amitsinghrawat777&column=7&margin-w=15&margin-h=15&no-frame=true&theme=algolia&title=Stars,Followers,MultiLanguage,Repositories,Organizations,Commits,PullRequest,Issues" />
   </a>
