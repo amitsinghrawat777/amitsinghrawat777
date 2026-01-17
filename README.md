@@ -141,25 +141,10 @@
  
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amitsinghrawat777/amitsinghrawat777/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amitsinghrawat777/amitsinghrawat777/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/amitsinghrawat777/amitsinghrawat777/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amitsinghrawat777/amitsinghrawat777/pacman/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amitsinghrawat777/amitsinghrawat777/pacman/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/amitsinghrawat777/amitsinghrawat777/pacman/pacman-contribution-graph.svg">
   </picture>
 </div>
 
-<a href="https://github.com/amitsinghrawat777">
-
- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amitsinghrawat777/amitsinghrawat777/pacman/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amitsinghrawat777/amitsinghrawat777/pcman/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/amitsinghrawat777/amitsinghrawat777/pacman/pacman-contribution-graph.svg">
-</picture>
- </a>
-
 </p>
-
-
-<!--More REPOSITORIES-->
-
-
-<details open align="center">
