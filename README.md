@@ -139,9 +139,13 @@
 
 <p align="center">
  
-<a href="https://github.com/amitsinghrawat777">
-   <img alt="github-snake" src="" title="🐍 Watch how the snake's eating my contributions" />
-</a>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amitsinghrawat777/amitsinghrawat777/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amitsinghrawat777/amitsinghrawat777/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/amitsinghrawat777/amitsinghrawat777/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 <a href="https://github.com/amitsinghrawat777">
 
