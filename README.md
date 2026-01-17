@@ -93,3 +93,69 @@
  
 
 </p >
+
+<details open align="center">
+  <summary>📈 More Stats</summary>
+  <br>
+ <!--
+<p align="center">
+<a href="https://github.com/amitsinghrawat777"> 
+<img align="center" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwalidbosso%2Fhit-counter&count_bg=%236EB9F2&title_bg=%2301102D&icon=workplace.svg&icon_color=%2341C350&title=Profile+Views+(since+03/2024)&edge_flat=true" width="">    
+</a></p> -->
+
+<p align="center">
+<div align="center">
+ <a href="https://github.com/amitsinghrawat777"> 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amitsinghrawat777&theme=algolia" width="100%" /> </br></br>
+
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amitsinghrawat777&theme=algolia" width="31%" align="left"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amitsinghrawat777&theme=algolia" width="31%" align="right" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amitsinghrawat777&theme=algolia" width="31%" align="center" title="🦉 Night owl" />  
+</br></br>
+ </a>
+<a href="https://github.com/amitsinghrawat777"> 
+ <img src="./profile-3d-contrib/profile-night-view.svg" alt="Contribution sts" width="%" /></br></br>
+  </a> 
+  
+<!--  [![amit's github streak](https://github-readme-streak-stats.herokuapp.com/?user=amitsinghrawat777&theme=algolia&card_width=1000)](https://github.com/amitsinghrawat777) -->
+
+</br>
+<a href="https://github.com/amitsinghrawat777">
+<img align="center"  width="100%" src="https://s01.flagcounter.com/countxl/DP79/bg_01102D/txt_6EB9F2/border_01102D/columns_8/maxflags_250/viewers_++Unique+Views+Per+Country+since+25+Mai+2025/labels_1/page_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+
+[![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=amitsinghrawat777&theme=react-dark&hide_border=true&area=true&bg_color=01102d&color=6eb9f2&line=41c350&point=ffffff)](https://github.com/amitsinghrawat777) </br>
+[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=amitsinghrawat777&column=8&margin-w=20&margin-h=20&no-frame=true&theme=algolia&title=Stars,Followers,MultiLanguage,Repositories,Organizations,Commits,PullRequest,Issues)](https://github.com/amitsinghrawat777) 
+</div>
+
+
+ <div align="center">
+</p >
+
+</details>
+
+<!--SNAKE-->
+
+
+<p align="center">
+ 
+<a href="https://github.com/amitsinghrawat777">
+   <img alt="github-snake" src="https://raw.githubusercontent.com/amitsinghrawat777/amitsinghrawat777/output/github-snake-darkBlue.svg" title="🐍 Watch how the snake's eating my contributions" />
+</a>
+
+<a href="https://github.com/amitsinghrawat777">
+
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amitsinghrawat777/amitsinghrawat777/pacman/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amitsinghrawat777/amitsinghrawat777/pcman/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/amitsinghrawat777/amitsinghrawat777/pacman/pacman-contribution-graph.svg">
+</picture>
+ </a>
+
+</p>
+
+
+<!--More REPOSITORIES-->
+
+
+<details open align="center">
