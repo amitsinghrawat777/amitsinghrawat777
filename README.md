@@ -61,13 +61,6 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 <div align="center">
-  <p align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amitsinghrawat777&theme=algolia" width="100%" />
-    <br/>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amitsinghrawat777&theme=algolia" width="31%" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amitsinghrawat777&theme=algolia" width="31%" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amitsinghrawat777&theme=algolia" width="31%" />
-  </p>
 
   <a href="https://github.com/amitsinghrawat777">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=amitsinghrawat777&theme=react-dark&hide_border=true&area=true&bg_color=01102d&color=6eb9f2&line=41c350&point=ffffff" />
