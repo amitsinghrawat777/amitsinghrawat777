@@ -1,7 +1,7 @@
 [![MasterHead](https://64.media.tumblr.com/5d37ab2aa782462c7aa092f7bd0d27cb/2f374d07287b003b-f4/s1280x1920/fe094893d79e09d668e1705e8b9144964f38ce75.gifv)](https://rishavchanda.io)
 
-<h1 align="center">Ayo👋, This is Amit Singh Rawat</h1>
-<h3 align="center">A passionate <strong>Fullstack</strong> developer</h3>
+<h1 align="center">Ayo👋, This is A.myth Singh Rawat</h1>
+<h3 align="center">A passionate <strong>Fullstack</strong> dev</h3>
 
 <div align="center">
   <a href="https://instagram.com/a.myth_singh">
